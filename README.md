@@ -5,3 +5,5 @@ kmeans_song_clustering.py - Python script implementing data preprocessing, K-Mea
 elbow_method_kmeans.png - Visualization of the Elbow Method, used to determine the optimal number of clusters.
 
 song_clusters_pca.png - PCA-based visualization of the K-Means clustering results.
+
+lstm_time_series.py - Predict the future popularity of songs based on historical streaming data and metadata
